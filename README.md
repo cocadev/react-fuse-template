@@ -63,3 +63,5 @@
         "typeface-muli": "0.0.71",
         "velocity-react": "1.4.3"
 <pre>
+
+<a href="http://react-material.fusetheme.com/documentation/getting-started/introduction" target="_blank">Live</a>
