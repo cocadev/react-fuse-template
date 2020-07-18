@@ -1,11 +1,12 @@
 React Fuse Template
 
 <kbd>
-	<img src="1.png">
+        <img src="1.png">
 </kbd>
 
-`
-"@date-io/date-fns": "1.3.6",
+<blockquote>
+        <pre>
+                "@date-io/date-fns": "1.3.6",
         "@material-ui/core": "4.0.1",
         "@material-ui/icons": "4.0.1",
         "@material-ui/pickers": "3.0.0",
@@ -61,4 +62,5 @@ React Fuse Template
         "redux-thunk": "2.3.0",
         "typeface-muli": "0.0.71",
         "velocity-react": "1.4.3"
-`
+    <pre>
+</blockquote>
