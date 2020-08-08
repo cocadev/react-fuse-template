@@ -1,4 +1,4 @@
-# React Fuse Template
+# ReactJS Fuse Template
 
 <kbd>
         <img src="1.png">
